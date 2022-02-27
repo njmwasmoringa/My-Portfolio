@@ -20,3 +20,13 @@ html {
 header {
     display: flex;
 }
+header h1{
+    display: flex;
+    font-size:20px;
+    margin:90;
+}
+footer {
+    display: flex;
+    font-size:10px;
+    background:purple;
+}
