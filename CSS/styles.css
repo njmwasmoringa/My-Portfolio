@@ -16,20 +16,28 @@ body {
 
 h1 {
     font-size: 60px;
-    font-color: white;
+    color: purple;
     font-family: "Luckiest Guy, cursive";
 }
 
 .intro {
     font-size:25px;
-    margin-top: 5%;
+    color:purple;
 }
 
 .mid {
-    font-size: 20px;
+    font-size: 25px;
     font-family: "Sans-serif";
+    color:purple;
 }
 
+
+#list {
+    margin-left:5%;
+    font-family:monospace;
+    font-size: 20px;
+    font-weight:bold;
+}
 .button {
     float: right;
 }
@@ -44,7 +52,7 @@ h1 {
 
 .center-fit {
     margin-top: 5%;
-    margin-left: 30%;
+    margin-left: 20%;
 }
 
 html {
