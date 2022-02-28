@@ -20,14 +20,18 @@ h1 {
     font-family: "Luckiest Guy, cursive";
 }
 
-.intro{
+.intro {
     font-size:25px;
     margin-top: 5%;
 }
 
-.mid{
+.mid {
     font-size: 20px;
     font-family: "Sans-serif";
+}
+
+.button {
+    float: right;
 }
 .bg {
     background-image: url("../Images/abstract-background.jpg");
