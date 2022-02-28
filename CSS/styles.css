@@ -8,7 +8,7 @@ body {
     height: 100%;
     margin: 0;
     font-family: "Luckiest Guy", cursive;
-    font-size: 12px;
+    font-size: 15px;
     color: white;
     background: transparent;
     text-align: justify;
@@ -20,6 +20,15 @@ h1 {
     font-family: "Luckiest Guy, cursive";
 }
 
+.intro{
+    font-size:25px;
+    margin-top: 5%;
+}
+
+.mid{
+    font-size: 20px;
+    font-family: "Sans-serif";
+}
 .bg {
     background-image: url("../Images/abstract-background.jpg");
     background-repeat: no-repeat;
